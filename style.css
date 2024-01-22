@@ -10,7 +10,7 @@ div#bandeau {
 	background-color:#FFFFAA;
 }
 
-div#bandeau-block {
+.bandeau-block {
 	display: flex;
 	text-align:center;
 	width:200px;

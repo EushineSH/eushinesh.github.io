@@ -24,14 +24,14 @@ div#bandeau {
 	padding: 30px 5px 5px 5px;
 	position: relative;
   	left: 230px;
-	bottom: 65px;
+	bottom: 50px;
 }
 
 .trois {
 	padding: 30px 5px 5px 5px;
 	position: relative;
   	left: 460px;
-	bottom: 141px;
+	bottom: 126px;
 }
 
 div#liseré {
@@ -46,5 +46,5 @@ div#corps {
 }
 
 .vert {
-	color: #ffa0a0;
+	color: #50ff50;
 }

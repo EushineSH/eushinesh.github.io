@@ -4,6 +4,7 @@ body {
 }
 
 div#bandeau {
+	display: flex;
 	text-align:center;
 	width:fill;
 	height:75px;

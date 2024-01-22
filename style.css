@@ -6,18 +6,17 @@ body {
 div#bandeau {
 	text-align:center;
 	width:fill;
-	height:80px;
+	height:75px;
 	background-color:#FFFFAA;
 }
 
 div#liseré {
-	text-align:center;
 	width:fill;
-	height:3px;
-	background-color:#FFAAAA;
+	height:2px;
+	background-color:#AAFFAA;
 }
 
 div#corps {
 	padding: 5px 20px 20px 20px;
-	background-color:#FFFFAA;
+	background-color:#FFFFFF;
 }

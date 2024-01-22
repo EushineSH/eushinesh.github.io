@@ -1,6 +1,6 @@
 body {
   	margin: 0 auto;
-	background-color:#ffffff;
+	background-color:#ffffaa;
 }
 
 div#bandeau {
@@ -42,7 +42,7 @@ div#liseré {
 
 div#corps {
 	padding: 5px 6% 20px;
-	background-color:#fffff;
+	background-color:#ffffff;
 }
 
 .vert {

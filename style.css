@@ -41,8 +41,8 @@ div#liseré {
 }
 
 div#corps {
-	padding: 5px 15% 20px;
-	background: linear-gradient(to right, #aaaaff 5%, #ffffff 15% 85%, #ffbff9 95%);
+	padding: 5px 6% 20px;
+	background-color:#fffff;
 }
 
 .vert {

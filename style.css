@@ -11,11 +11,20 @@ div#bandeau {
 }
 
 .bandeau-block {
-	display: flex;
 	width:200px;
 	height:75px;
 	padding: 5px 5px 5px 5px;
 	background-color:#FFFFAA;
+}
+
+.deux {
+	position: relative;
+  	left: 200px;
+}
+
+.trois {
+	position: relative;
+  	left: 400px;
 }
 
 div#liseré {

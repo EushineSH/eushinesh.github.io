@@ -13,20 +13,25 @@ div#bandeau {
 .bandeau-block {
 	width:200px;
 	height:75px;
-	padding: 30px 5px 5px 5px;
 	background-color:#FFFFAA;
 }
 
+.un {
+	padding: 15px 5px 5px 5px;
+}
+
 .deux {
+	padding: 30px 5px 5px 5px;
 	position: relative;
   	left: 200px;
-	bottom: 75px;
+	bottom: 150px;
 }
 
 .trois {
+	padding: 30px 5px 5px 5px;
 	position: relative;
   	left: 400px;
-	bottom: 150px;
+	bottom: 225px;
 }
 
 div#liseré {

@@ -4,6 +4,7 @@ body {
 }
 
 div#bandeau {
+	position: fixed;
 	text-align:center;
 	width:fill;
 	height:76px;
@@ -17,6 +18,7 @@ div#bandeau {
 }
 
 .un {
+	position: fixed;
 	padding: 8px 5px 5px 5px;
 }
 
@@ -35,6 +37,7 @@ div#bandeau {
 }
 
 div#liseré {
+	position: fixed;
 	width:fill;
 	height:2px;
 	background-color:#AAFFAA;

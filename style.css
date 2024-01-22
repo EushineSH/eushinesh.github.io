@@ -1,6 +1,5 @@
 body {
   	margin: 0 auto;
-	background: linear-gradient(to right, #aaaaff 5%, #ffffff 95%, #ffbff9);
 }
 
 div#bandeau {
@@ -42,7 +41,7 @@ div#liseré {
 
 div#corps {
 	padding: 5px 20px 20px 20px;
-	background-color:#FFFFFF;
+	background: linear-gradient(to right, #aaaaff 5%, #ffffff 95%, #ffbff9);
 }
 
 .vert {

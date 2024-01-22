@@ -17,7 +17,7 @@ div#bandeau {
 }
 
 .un {
-	padding: 20px 5px 5px 5px;
+	padding: 8px 5px 5px 5px;
 }
 
 .deux {
@@ -30,7 +30,7 @@ div#bandeau {
 .trois {
 	padding: 30px 5px 5px 5px;
 	position: relative;
-  	left: 410px;
+  	left: 430px;
 	bottom: 60px;
 }
 

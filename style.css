@@ -10,6 +10,13 @@ div#bandeau {
 	background-color:#FFFFAA;
 }
 
+div#bandeau-block {
+	text-align:center;
+	width:200px;
+	height:75px;
+	background-color:#FFFFAA;
+}
+
 div#liseré {
 	width:fill;
 	height:2px;

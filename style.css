@@ -12,7 +12,6 @@ div#bandeau {
 
 .bandeau-block {
 	display: flex;
-	text-align:center;
 	width:200px;
 	height:75px;
 	padding: 5px 5px 5px 5px;

@@ -6,32 +6,32 @@ body {
 div#bandeau {
 	text-align:center;
 	width:fill;
-	height:75px;
+	height:76px;
 	background-color:#FFFFAA;
 }
 
 .bandeau-block {
 	width:200px;
-	height:75px;
+	height:76px;
 	background-color:#FFFFAA;
 }
 
 .un {
-	padding: 15px 5px 5px 5px;
+	padding: 22px 5px 5px 5px;
 }
 
 .deux {
 	padding: 30px 5px 5px 5px;
 	position: relative;
   	left: 200px;
-	bottom: 150px;
+	bottom: 113px;
 }
 
 .trois {
 	padding: 30px 5px 5px 5px;
 	position: relative;
   	left: 400px;
-	bottom: 225px;
+	bottom: 188px;
 }
 
 div#liseré {

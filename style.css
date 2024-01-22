@@ -18,18 +18,21 @@ div#bandeau {
 
 .un {
 	padding: 25px 5px 5px 5px;
+	top: 5px;
 }
 
 .deux {
 	padding: 30px 5px 5px 5px;
 	position: relative;
   	left: 200px;
+	bottom: 20px;
 }
 
 .trois {
 	padding: 30px 5px 5px 5px;
 	position: relative;
-  	left: 400px;
+  	left: 450px;
+	bottom: 60px;
 }
 
 div#liseré {

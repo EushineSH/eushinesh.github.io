@@ -3,6 +3,10 @@ body {
 	background-color:#ffffaa;
 }
 
+.p {
+	font-family: Gill Sans, Verdana, Arial, sans-serif;
+}
+
 div#bandeau {
 	text-align:center;
 	width:fill;

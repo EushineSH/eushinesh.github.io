@@ -1,7 +1,6 @@
 body {
   	margin: 0 auto;
 	background-color:#ffffaa;
-	font-family: "Gill Sans",Verdana, sans-serif;
 }
 
 div#bandeau {
@@ -46,12 +45,18 @@ div#corps {
 	background-color:#ffffff;
 }
 
+p {
+	font-family: "Gill Sans",Verdana, sans-serif;
+}
+
 h1 {
+	font-family: Georgia, Times, serif;
 	text-shadow: 2px 2px 8px #48b348;
 }
 
 h2 {
-	text-shadow: 2px 2px 8px #48b348;
+	font-family: Georgia, Times, serif;
+	text-shadow: 2px 2px 4px #48b348;
 }
 
 .vert {

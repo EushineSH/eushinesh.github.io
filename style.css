@@ -37,12 +37,16 @@ div#bandeau {
 div#liseré {
 	width:fill;
 	height:2px;
-	background-color:#AAFFAA;
+	background-color:#aaffaa;
 }
 
 div#corps {
 	padding: 5px 6% 20px;
 	background-color:#ffffff;
+}
+
+h1 {
+	text-shadow: 2px 2px 5px #aaffaa;
 }
 
 .vert {

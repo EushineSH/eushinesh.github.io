@@ -7,7 +7,7 @@ div#bandeau {
 	text-align:center;
 	width:fill;
 	height:76px;
-	background-color:#FFFFAA;
+	background-color:#ffffaa;
 }
 
 .bandeau-block {
@@ -56,7 +56,7 @@ h1 {
 
 h2 {
 	font-family: Georgia, Times, serif;
-	text-shadow: 2px 2px 4px #aaffaa;
+	text-shadow: 2px 2px 4px #ffffaa;;
 }
 
 .vert {

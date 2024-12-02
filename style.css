@@ -49,3 +49,8 @@ div#corps {
 	color: #50ff50;
 	text-decoration-line: none;
 }
+
+::selection {
+ color: #fff;
+ background: #AAFFAA;
+ }

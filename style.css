@@ -46,7 +46,11 @@ div#corps {
 }
 
 h1 {
-	text-shadow: 2px 2px 5px #aaffaa;
+	text-shadow: 2px 2px 8px #48b348;
+}
+
+h2 {
+	text-shadow: 2px 2px 8px #48b348;
 }
 
 .vert {
@@ -55,6 +59,5 @@ h1 {
 }
 
 ::selection {
- color: #fff;
- background: #48b348;
+ background-color: #48b348;
  }
